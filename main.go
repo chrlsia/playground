@@ -9,4 +9,7 @@ func main(){
 		fmt.Println(i)
 		fmt.Println("++++")
 	}
+
+	fmt.Println("Pitty snowman1")
+	fmt.Println("Pitty snowman2")
 }
