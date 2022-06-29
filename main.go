@@ -12,4 +12,6 @@ func main(){
 
 	fmt.Println("Pitty snowman1")
 	fmt.Println("Pitty snowman2")
+
+	fmt.Println("added right arm")
 }
