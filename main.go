@@ -9,4 +9,6 @@ func main(){
 		fmt.Println(i)
 		fmt.Println("++++")
 	}
+
+	fmt.Println("Made a car")
 }
