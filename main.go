@@ -10,5 +10,8 @@ func main(){
 		fmt.Println("++++")
 	}
 
-	fmt.Println("Made a car")
+	fmt.Println("Pitty snowman1")
+	fmt.Println("Pitty snowman2")
+
+	fmt.Println("added right arm")
 }
